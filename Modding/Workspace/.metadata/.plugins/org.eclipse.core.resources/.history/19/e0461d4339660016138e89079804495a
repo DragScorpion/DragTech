@@ -1,0 +1,15 @@
+package de.dragtech.dragtech.items;
+
+import de.dragtech.dragtech.Main;
+import de.dragtech.dragtech.utilities.MainUtilities;
+import net.minecraft.item.Item;
+
+public class MainItems {
+	
+	public static Item itemPistonHead;
+	
+	public static void init() {
+		itemPistonHead = new Item();
+		itemPistonHead.setUnlocalizedName("itemPistonHead").setTextureName(Main.MODID + ":" + "itemPistonHead").setCreativeTab(MainUtilities.tabDragTech);
+	}
+}

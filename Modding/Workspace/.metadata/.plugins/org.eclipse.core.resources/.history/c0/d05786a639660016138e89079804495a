@@ -1,0 +1,21 @@
+package de.dragtech.dragtech.items;
+
+import de.dragtech.dragtech.Main;
+import de.dragtech.dragtech.utilities.MainUtilities;
+import net.minecraft.item.Item;
+
+public class MainItems {
+	
+	public static Item itemPistonHead;
+	public static Item itemPistonBase;
+	public static Item itemStoneGear;
+	
+	public static void init() {
+		itemPistonHead = new Item();
+		itemPistonBase = new Item();
+		itemStoneGear = new Item();
+		itemPistonHead.setUnlocalizedName("itemPistonHead").setTextureName(Main.MODID + ":" + "itemPistonHead").setCreativeTab(MainUtilities.tabDragTech);
+		itemPistonBase.setUnlocalizedName("itemPistonBase").setTextureName(Main.MODID + ":" + "itemPistonBase").setCreativeTab(MainUtilities.tabDragTech);
+		itemStoneGear.setUnlocalizedName("itemStoneGear").setTextureName(Main.MODID + ":" + "itemStoneGear").setCreativeTab(MainUtilities.tabDragTech);
+	}
+}
