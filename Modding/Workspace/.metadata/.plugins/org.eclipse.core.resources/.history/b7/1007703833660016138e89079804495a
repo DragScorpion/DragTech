@@ -1,0 +1,17 @@
+package de.dragtech.dragtech;
+
+public class CommonProxy {
+	public void preInit(FMLPreInitializationEvent e) {
+		MainUtilities.init();
+		MainItems.init();
+	}
+	
+	public void init(FMLInitializationEvent e) {
+		MainRecipes.init();
+		NetworkRegistry.INSTANCE.registerGuiHandler(Main.instance, new MainGuiHandler());
+	}
+	
+	public void postInit(FMLPostInitializationEvent e) {
+		
+	}
+}

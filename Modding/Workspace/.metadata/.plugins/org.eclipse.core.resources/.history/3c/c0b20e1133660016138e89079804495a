@@ -1,0 +1,12 @@
+package de.dragtech.dragtech;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = Main.MODID, version = Main.MODVERSION)
+public class Main {
+	
+	public static final String MODID = "dragtech";
+	public static final String MODNAME = "DragTech";
+	public static final String MODVERSION = "0.0.0";
+	
+}
