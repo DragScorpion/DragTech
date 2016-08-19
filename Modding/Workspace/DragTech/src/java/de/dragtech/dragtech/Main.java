@@ -8,7 +8,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = Main.MODID, version = Main.MODVERSION)
+@Mod (modid = Main.MODID, name = Main.MODNAME, version = Main.MODVERSION)
 public class Main {
 	
 	public static final String MODID = "dragtech";
