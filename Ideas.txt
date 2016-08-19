@@ -1,0 +1,15 @@
+Piston Kopf
+	pistonHead > Piston Head
+Piston Bereich
+	pistonBase > Piston Base
+Steingetriebe
+	stoneGearDrive > Stone Gear Drive
+
+Helmform
+	castHelmet > Helmet Cast
+Brustpanzerform
+	castChestplate > Chestplate Cast
+Hosenform
+	castLeggings > Leggings Cast
+Boots Cast
+	castBoots > Boots Cast
