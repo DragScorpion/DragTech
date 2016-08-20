@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="de.dragtech.dragtech.guis.MainGuiHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="de.dragtech.dragtech.Main"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="de.dragtech.dragtech.items.MainItems"/>
+<fullyQualifiedTypeName name="de.dragtech.dragtech.utilities.MainUtilities"/>
+</qualifiedTypeNameHistroy>
