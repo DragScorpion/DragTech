@@ -13,3 +13,26 @@ Hosenform
 	castLeggings > Leggings Cast
 Boots Cast
 	castBoots > Boots Cast
+
+earthParticle > Earth Particle
+windParticle > Wind Particle
+waterParticle > Water Particle
+fireParticle > Fire Particle
+
+springParticle > Spring Particle
+summerParticle > Summer Particle
+autumnParticle > Autumn Particle
+WinterParticle > Winter Particle
+
+dryParticle > Dry Particle
+dampParticle > Damp Particle
+coldParticle > Cold Particle
+hotParticle > Hot Particle
+
+pressureParticle > Pressure Particle
+vacuumParticle > Vacuum Particle
+
+basicGeneticParticle > Basic Genetic Particle
+advancedGeneticParticle > Advanced Genetic Particle
+eliteGeneticParticle > Elite Genetic Particle
+ultimateGeneticParticle > Ultimate Genetic Particle
